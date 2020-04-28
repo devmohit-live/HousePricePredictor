@@ -27,6 +27,9 @@ A Flask App to that predicts the price of the house, given various parameters li
 
 -  run this command : `docker-compose up -d`
 
+## Use :
+
+- ### connect to the app ny using your system's(base system) ip along with your port number you specified, Ex: `192.168.43.135:8080`
 ## Troubleshooting
 
 - Facing package/dependecies problem : _The image has python3 and the packages are as folllows: pip3, flask, sklearn, numpy_
