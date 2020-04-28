@@ -34,9 +34,9 @@ A Flask App to that predicts the price of the house, given various parameters li
 - Conatiner is installed correctly but site is unable to connect
 - > **Solution** : try these steps:
 
-  1.  _Run this command to know the container name :_ `docker ps`
-  2.  _Attach to the container_ : `docker attach conatiner_name`
-  3.  _Run this command:_
+  1.  > Run this command to know the container name :_ `docker ps`
+  2.  > Attach to the container_ : `docker attach conatiner_name`
+  3.  > Run these command:_
 
   ```
   git clone https://github.com/devmohit-live/HousePricePredictor.git
